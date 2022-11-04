@@ -9,7 +9,7 @@
   "dependencies": {
     "vue-router": "^4.0.11",
     "vue": "^3.2.8",
-    "vuex": "^4.0.1"
+    "vuex": "^4.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.4",
